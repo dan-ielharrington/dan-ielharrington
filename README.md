@@ -1,7 +1,3 @@
-- 👋 Hi, I’m Daniel Harrington
-- 👀 I’m interested in Data Science and Cloud Computing. 
-- 🌱 I’m currently learning IT Project Management and finishing my Master's degree in Data Analytics/Computer Information Systems. 
-- 💞️ I’m looking to collaborate on a variety of projects. 
 - 📫 Contact: daniel.harrington.iv@gmail.com or https://www.linkedin.com/in/daniel-harrington-iv/
 
 <!---
